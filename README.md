@@ -1,21 +1,21 @@
 ### Hi there 👋
 
-✨<h1> Full stack, Ecommerce expert </h1>✨ 
+<h1>✨ Full stack, Ecommerce expert ✨</h1> 
   <p>
     <img width="100%" src="https://res.cloudinary.com/devlandunion/image/upload/v1650881393/portfolio/cover_new_vothvr.jpg" />
   </p>
   <p>
-  Welcome to my profile!<br>
-  I am a Senior Developer & Game Changer.<br>
-  My goal is to master all the relevant skills and become one of the best developers in the world, and I’m working towards it now!<br>
-  My projects include building Web Development(Frontend & Backend), Animation, Web 3D Work(WebVR, WebAR, 360 Degree Viewer, 3D Product Configuration), 2D & 3D Game Development, etc.<br><br>
-  🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+  Welcome!<br>
+  I am a Full stack developer with rich hands-on experience in 8 years.<br>
+  As a seasoned dev,  I have been building a lot of project successfully.
+  🏆I will contribute to many projects in future.🏆
+  <br><br>
 </p>
 <p align="center">
   <a href="https://github.com/maxLambdadev"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
-<b> 🎬 I am ready to start your project immediately.</b>
+<b> 🎬 I will make all perfect result.</b>
 ## My Core Skill Stack
 - <b>Programming</b> : JavaScript, TypeScript,PHP, Python
 - <b>Frontend</b> : React, Next.js, Vue.js, Nuxt.js, Angular, php, 
@@ -34,11 +34,6 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=maxLambdadev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maxLambdadev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
-</p>
-<a href="https://github.com/maxLambdadev">
-  <img alt="maxLambdadev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=maxLambdadev&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
-</a>
-  
 </p>
 </details>
 
