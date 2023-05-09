@@ -16,9 +16,9 @@
 </p>
 
 <b> 🎬 I will make all perfect result.</b>
-## My Core Skill Stack
+## My Skill 
 - <b>Programming</b> : JavaScript, TypeScript,PHP, Python
-- <b>Frontend</b> : React, Next.js, Vue.js, Nuxt.js, Angular, php, 
+- <b>Frontend</b> : React, Next.js, Vue.js, Nuxt.js, Angular, php, wordpress
 - <b>Backend</b> : Node.js, Express.js, Nest.js, Django, Flask, Laravel
 - <b>Ecommerce</b> : Shopify, Shopify App, Shopify theme, Woocommerce.
 - <b>UI Library</b> : Tailwind CSS, Ant Design, Material-UI
